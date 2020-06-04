@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982186735993",
+    "firebase_url": "https://test-1330d.firebaseio.com",
+    "project_id": "test-1330d",
+    "storage_bucket": "test-1330d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982186735993:android:e910fab44a644acc2f57a8",
+        "android_client_info": {
+          "package_name": "co.fc.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982186735993-68k8i4g99uu6l4ng1coe5hs45h7mqila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdhgCFqDwZzRX147JJBx8AhWH4EKPQkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982186735993-68k8i4g99uu6l4ng1coe5hs45h7mqila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
